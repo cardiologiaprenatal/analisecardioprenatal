@@ -1,0 +1,65 @@
+{
+  "dataset_path": "C:\\Users\\ca_jo\\Desktop\\gestrisk-ccf-prediction (3)\\gestrisk-ccf-prediction\\data\\dataset.csv",
+  "metrics_path": "C:\\Users\\ca_jo\\Desktop\\gestrisk-ccf-prediction (3)\\gestrisk-ccf-prediction\\data\\metricas_modelos.csv",
+  "report_path": "C:\\Users\\ca_jo\\Desktop\\gestrisk-ccf-prediction (3)\\gestrisk-ccf-prediction\\reports\\relatorio_cientifico_ccf.md",
+  "prevalence": 0.0742,
+  "experiment_summaries": {
+    "experimento_1_maternal": {
+      "melhor_modelo": "CatBoost",
+      "melhor_balanceamento": "class_weight",
+      "f1_cv_mean": 0.1663,
+      "roc_auc_cv_mean": 0.5677,
+      "pr_auc_cv_mean": 0.1322,
+      "test_f1": 0.1783,
+      "test_roc_auc": 0.5892
+    },
+    "experimento_2_maternal_doencas": {
+      "melhor_modelo": "SVM",
+      "melhor_balanceamento": "smote",
+      "f1_cv_mean": 0.2116,
+      "roc_auc_cv_mean": 0.6384,
+      "pr_auc_cv_mean": 0.2026,
+      "test_f1": 0.2586,
+      "test_roc_auc": 0.6723
+    },
+    "experimento_3_completo": {
+      "melhor_modelo": "CatBoost",
+      "melhor_balanceamento": "class_weight",
+      "f1_cv_mean": 0.3595,
+      "roc_auc_cv_mean": 0.7904,
+      "pr_auc_cv_mean": 0.3886,
+      "test_f1": 0.3488,
+      "test_roc_auc": 0.8041
+    }
+  },
+  "best_model": {
+    "experimento": "experimento_3_completo",
+    "balanceamento": "class_weight",
+    "modelo": "CatBoost",
+    "accuracy_mean": 0.8412,
+    "precision_mean": 0.2592,
+    "recall_mean": 0.5959,
+    "f1_score_mean": 0.3595,
+    "roc_auc_mean": 0.7904,
+    "pr_auc_mean": 0.3886,
+    "sensibilidade_mean": 0.5959,
+    "especificidade_mean": 0.8609,
+    "accuracy_std": 0.0219,
+    "precision_std": 0.0276,
+    "recall_std": 0.0507,
+    "f1_score_std": 0.024,
+    "roc_auc_std": 0.0379,
+    "pr_auc_std": 0.0637,
+    "sensibilidade_std": 0.0507,
+    "especificidade_std": 0.0262,
+    "test_accuracy": 0.832,
+    "test_precision": 0.2446,
+    "test_recall": 0.6081,
+    "test_f1_score": 0.3488,
+    "test_roc_auc": 0.8041,
+    "test_pr_auc": 0.3905,
+    "test_sensibilidade": 0.6081,
+    "test_especificidade": 0.8499
+  },
+  "elapsed_seconds": 1917.3
+}
