@@ -1,0 +1,5 @@
+{
+  "modelo": "CatBoost",
+  "experimento": "experimento_3_completo",
+  "balanceamento": "class_weight"
+}

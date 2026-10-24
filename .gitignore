@@ -18,3 +18,8 @@ env/
 .ruff_cache/
 .DS_Store
 Thumbs.db
+
+# Banco local, exportações e arquivos soltos
+gestrisk_analises.db
+export/
+l.pdf

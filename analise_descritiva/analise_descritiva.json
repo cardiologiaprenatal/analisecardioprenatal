@@ -2,17 +2,17 @@
   "total_gestantes": 5000,
   "prevalencia_ccf": 0.0742,
   "graficos": {
-    "prevalencia": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\01_prevalencia_ccf.png",
-    "distribuicao": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\02_distribuicao_idade_imc.png",
-    "fatores_risco": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\03_ccf_por_fatores_risco.png",
-    "intercorrencias_cat": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\04_intercorrencias_por_categoria.png",
-    "top_intercorrencias": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\05_top_intercorrencias.png",
-    "risco": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\06_distribuicao_risco.png",
-    "probabilidade": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\07_distribuicao_probabilidade.png",
-    "prioridade_eco": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\08_prioridade_ecocardiograma.png",
-    "etnia": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\11_prevalencia_por_etnia.png",
-    "importancia": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\09_importancia_features.png",
-    "experimentos": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\figuras\\10_comparativo_experimentos.png"
+    "prevalencia": "analise_descritiva/figuras/01_prevalencia_ccf.png",
+    "distribuicao": "analise_descritiva/figuras/02_distribuicao_idade_imc.png",
+    "fatores_risco": "analise_descritiva/figuras/03_ccf_por_fatores_risco.png",
+    "intercorrencias_cat": "analise_descritiva/figuras/04_intercorrencias_por_categoria.png",
+    "top_intercorrencias": "analise_descritiva/figuras/05_top_intercorrencias.png",
+    "risco": "analise_descritiva/figuras/06_distribuicao_risco.png",
+    "probabilidade": "analise_descritiva/figuras/07_distribuicao_probabilidade.png",
+    "prioridade_eco": "analise_descritiva/figuras/08_prioridade_ecocardiograma.png",
+    "importancia": "analise_descritiva/figuras/09_importancia_features.png",
+    "experimentos": "analise_descritiva/figuras/10_comparativo_experimentos.png",
+    "etnia": "analise_descritiva/figuras/11_prevalencia_por_etnia.png"
   },
-  "resumo": "C:\\Users\\carol\\AnalisePython-main\\analise_descritiva\\resumo_analise_descritiva.md"
+  "resumo": "analise_descritiva/resumo_analise_descritiva.md"
 }
